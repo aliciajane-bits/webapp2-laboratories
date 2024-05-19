@@ -1,3 +1,5 @@
+// maling folder po nalagyan ko, ngayon ko lang po naisip ayusin
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
