@@ -1,0 +1,17 @@
+Good Day sir, sorry po late ako nagpass ng assignment. Madami po kasing tumatakbo sa utak ko last week pa kaya nawala rin po sa utak ko na may deadline kahapon.
+It's better late than never po, loobin po try ko na po gumawa ng mas maaga para di ko na po ireason out na nakalimot po ako. Sorry po sir, salamat po sa Dios<3.
+
+
+The IT company embarked on an ambigious project which was meticulously planned with a 5 months The IT company embarked on an ambitious project that was meticulously planned to be done within 5 months.
+Despite being meticulously planned, several tasks are still in progress and there are so many problems that are left unsolved.
+The best thing they should've implemented here is a good project management methodology that fits their working team.
+The problem didn't specify how many people were on the team, I'm assuming that it is a small group of people.
+The project manager should've chosen a better SDLC Methodology that fits a small group of people or programmers. 
+
+From what I had learned in our subject System Analysis Design and Development, the best method to use in that case is Agile Methodologies.
+With that, the project manager can easily manage and look into the work of each individual in the group. 
+They can easily see who's the individual who doesn't have progress and they can easily track down the progress.
+
+The project was already planned in detail, I therefore concluded that there was already an SDLC Methodology used to plan out that project.
+However, since the project kept on having unfinished tasks and several problems weren't paid attention to.
+In conclusion, from those two premises, the SDLC Method was not fit for their working team and that is the reason why the project manager couldn't manage the team efficiently and effectively.
